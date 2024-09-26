@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Created by Samyak Kamble on 9/27/24, 12:12 AM
+  ~  Copyright (c) 2024 . All rights reserved.
+  ~  Last modified 9/27/24, 12:12 AM
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,6v12l-8.5-6L18,6zm-9,12V6H7v12h2z"/>
+</vector>
